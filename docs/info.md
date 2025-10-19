@@ -9,11 +9,15 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
-
+When ONLY 1 is ON the number 7 is shown
+When ONLY 2 is ON the number 6 is shown
+When ONLY 3 is ON the flickering version of 6 is shown
+When ONLY 4 is ON the flickering version of 7 is shown
 ## How to test
-
-Explain how to use your project
+When ONLY 1 is ON the number 7 is shown
+When ONLY 2 is ON the number 6 is shown
+When ONLY 3 is ON the flickering version of 6 is shown
+When ONLY 4 is ON the flickering version of 7 is shown
 
 ## External hardware
 
